@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Apps</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="kelompok">
+        1. Syahrul Febriyanto (1101171089)
+        \n\n
+        2. Davin Alfarizky Putra Basudewa ()
+        \n\n
+        3. M. Izzat ()
+    </string>
+</resources>
